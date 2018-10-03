@@ -17,7 +17,7 @@ public class CraigsList {
 
     	public static void main(String[] args) throws MalformedURLException, IOException, IllegalArgumentException
 	{
-		String searchQuery = "Iphone 6s" ;
+		String searchQuery = "Iphone XS" ;
 
 		WebClient client = new WebClient();  
 		client.getOptions().setCssEnabled(false);  
